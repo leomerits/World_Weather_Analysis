@@ -9,8 +9,8 @@ The purpose of this analysis is to write a code that will randomly select a grou
 - Wind Speed (mph) vs. Latitude
 
 # Resources:
-- Data Source: 
-- Software:
+- Data Source: WeatherPy_Database.csv, WeatherPy_vacation.csv, Weather_Database.ipynb, Vacation_Search.ipynb.ipynb, Vacation_Itinerary.ipynb.ipynb
+- Software: Python 3.7, Jupyter Notebook.
 
 # Results:
-The final result of the analysis provided vacationers with a writen code that will prompt them to enter their desired minimum and maximum temperature of their choice of vacation location. and the programe will select locations and hotels that fit into their choces with embeded heat and layer makers.
+The final result of the analysis provided vacationers with a written code that will prompt them to enter their desired minimum and maximum temperature of their choice of vacation location, and the programe will select locations and hotels that fit into their choces with embeded heat and layer makers.
